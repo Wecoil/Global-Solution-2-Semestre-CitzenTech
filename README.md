@@ -5,7 +5,7 @@
 
 ## Objetivo da atividade
 
-Nessa fase o objetivo é a entrega final do aplicativo flui com todas as funcionalidades principais propostas, mapa interativo, ficha detalhada, filtros de busca, sistema de avaliação, favoritos e histórico funcionando.
+O objetivo é desenvolvermos uma solução integrada entre um aplicativo mobile e uma plataforma web, que leve essa solução até o cidadão.
 
 ## YOUTUBE LINK
 
