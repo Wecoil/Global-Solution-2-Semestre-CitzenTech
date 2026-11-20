@@ -10,7 +10,9 @@ O objetivo é desenvolvermos uma solução integrada entre um aplicativo mobile 
 ## LINKS
 
 Vídeo Pitch: https://youtu.be/MrXAOD7P4WU
+
 Github do portal Web: https://github.com/temakiebao/gs-diarista-ja-2026/tree/main
+
 Vercel: https://gs-diarista-ja-2026.vercel.app/
 
 ## Ferramentas utilizadas
