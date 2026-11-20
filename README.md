@@ -30,6 +30,7 @@ Siga estas instruções simples para configurar o ambiente e testar a plataforma
 2 - Instale as dependências no terminal do VS Code:
 
 "npm install"
+
 "npx expo install expo-image-picker"
 
 3 - Faça a primeira compilação:
