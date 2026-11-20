@@ -9,7 +9,7 @@ Nessa fase o objetivo é a entrega final do aplicativo flui com todas as funcion
 
 ## YOUTUBE LINK
 
-Vídeo Pitch: 
+Vídeo Pitch: https://youtu.be/MrXAOD7P4WU
 
 ## Ferramentas utilizadas
 
