@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "DiaristaJá",
+    "slug": "diaristaja",
+    "scheme": "diaristaja",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "O DiaristaJá precisa acessar suas fotos para adicionar uma foto ao perfil profissional.",
+          "cameraPermission": "O DiaristaJá pode usar sua câmera para fotografar seu perfil profissional."
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F3F8F3"
+      },
+      "package": "com.diaristaja.app"
+    }
+  }
+}
