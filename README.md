@@ -41,6 +41,6 @@ Abra o Android Studio, abra a parte de Virtual Device Manager e emule um disposi
 Aperte a tecla "A" no teclado para inciar o aplicativo no emulador.
 
 Ou se o terminal foi fechado entre as etapas mas o aplicativo já foi compilado antes use o comando:
-npx expo start
+npx expo start -c
 
 E assim que o aplicativo iniciar aperte a tecla "A" no teclado para iniciar o aplicativo no emulador.
